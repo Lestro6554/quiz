@@ -1,0 +1,13 @@
+.addQuiz {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    margin-top: 40px;
+}
+
+.addQuiz-btn {
+    margin-top: 16px;
+}

@@ -1,0 +1,8 @@
+.QuizItem{
+    margin-bottom: 4px;
+    padding: 6px;
+}
+.quiz-cars__link {
+    text-decoration: none;
+    color: inherit;
+}

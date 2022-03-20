@@ -1,0 +1,17 @@
+.auth {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.auth_form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;  
+}
+.auth-form__link {
+    text-decoration: none;
+    color: inherit;
+}

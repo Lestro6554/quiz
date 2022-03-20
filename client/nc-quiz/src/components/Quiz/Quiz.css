@@ -1,0 +1,42 @@
+.quiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 10px; 
+}
+.quiz-heading {
+    text-align: center;
+}
+.quiz-heading-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+.Wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 20px;
+}
+.Timer{
+    display: flex;
+    position: relative;
+    margin-left: 10px;
+    margin-bottom: 262px;
+}
+
+@media screen and (max-width: 1000px) {
+    .Wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+    .Timer{
+        display: flex;
+        position: relative;
+        margin-top: 6px;
+        margin-left: 1px;
+        margin-bottom: 220px;
+    }
+}
